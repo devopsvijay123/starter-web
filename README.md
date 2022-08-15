@@ -16,3 +16,6 @@ Samplenu najajajaj najnjajajna vgvsfsftfstfsf babab
 
 ## How to contribute
 
+## copyright
+Hey git copy master
+
