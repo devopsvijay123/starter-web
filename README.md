@@ -16,6 +16,8 @@ Samplenu najajajaj najnjajajna vgvsfsftfstfsf babab
 
 ## How to contribute
 
+Please fork this full repository
+
 ## copyright
 Hey git copy master
 
