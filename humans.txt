@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Rebasing example
 
 # TECHNOLOGY COLOPHON
 
