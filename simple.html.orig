@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <head>
+<<<<<<< HEAD
+	<title>An example website-copyright notice adding changes before rebasing</title>
+	<link rel="stylesheetsily changes" href="css/bootstrap.min.css">
+=======
 	<title>An example website-copyright notice adding changes before rebasing and this is the extra change in feature branch</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+>>>>>>> 69c2c02 (fb adding some content to simpple.html file for conflict)
 	<style>
 		body {
 			padding-top: 50px;
